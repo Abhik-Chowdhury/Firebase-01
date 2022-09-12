@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase-01</string>
+    <string name="Firebase">firebase</string>
+    <string name="Yourname">NAME</string>
+    <string name="namebox">NAME:</string>
+    <string name="position">POSITION:</string>
+    <string name="position2">Position</string>
+    <string name="datasubmit">SUBMIT</string>
+</resources>
